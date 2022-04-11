@@ -31,10 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h6> This is from ansible wutomatic work flow </h6> 
    <h1> Thankyou, Happy Learning </h1>
    <h2> WE ARE So Happy, For YOU </h2>
-   <h3> This my second time, to edit this file </h3>
-   <h4> this is 4th time </h4>
-   <h5> This Is 5th time , to edit this file </h5>
+   <h3> THIS IS ANSIBLE </h3>
 </form>
